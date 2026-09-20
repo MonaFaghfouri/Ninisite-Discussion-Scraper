@@ -1,0 +1,3 @@
+﻿search_query,topic_title,topic_url,post_type,post_id,username,published_at,text,scraped_at
+sample product,Example discussion about product experience,https://example.com/discussion/topic/1001,original_post,sample_001,user_001,2026-09-01 10:30,Synthetic example text for portfolio demonstration.,2026-09-20T12:00:00
+sample product,Example discussion about product experience,https://example.com/discussion/topic/1001,comment,sample_002,user_002,2026-09-01 11:15,Another synthetic comment showing the output structure.,2026-09-20T12:00:01
