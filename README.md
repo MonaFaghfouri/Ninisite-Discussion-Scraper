@@ -123,9 +123,7 @@ Ninisite-Discussion-Scraper/
 │
 ├── sample_output/
 │   └── sample_data.csv
-│
-└── images/
-    └── scraper_workflow.png
+
 ```
 
 ---
